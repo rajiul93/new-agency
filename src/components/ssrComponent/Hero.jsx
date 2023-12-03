@@ -14,7 +14,7 @@ const Hero = async () => {
       <SiteNavbar />
       <div className="max-w-7xl mx-auto px-8 flex gap-7 align-middle items-center">
         <div className="w-1/2 ">
-          <h1 className="not-italic text-5xl font-bold leading-[65px] w-[550px]">
+          <h1 className="my-text not-italic text-5xl font-bold leading-[65px] w-[550px]">
             Increase Your Customers Loyalty and Satisfaction
           </h1>
           <p className="text-sm w-[550px]">
